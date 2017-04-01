@@ -132,7 +132,7 @@ blockquote.pull {float:right; font-style:normal;}
 
 /* Images
 ----------------------------------------------------*/
-img {max-width:100%; width:auto; height:auto; border:none; vertical-align:bottom; -ms-interpolation-mode:bicubic;
+img { border:none; vertical-align:bottom; -ms-interpolation-mode:bicubic;
   -webkit-box-sizing:content-box;
      -moz-box-sizing:content-box;
           box-sizing:content-box;
